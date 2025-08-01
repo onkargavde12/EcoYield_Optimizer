@@ -1,0 +1,3 @@
+This EcoYield Optimizer project utilizes a structured agricultural dataset sourced from Kaggle, containing data on soil type, nutrient levels (NPK), and environmental conditions such as temperature, humidity, and rainfall. The dataset is organized to support multiple machine learning tasks including fertilizer suggestion, and plant disease detection. By analyzing patterns in agricultural inputs and their outcomes, the model aims to provide intelligent, data-driven recommendations that help farmers increase yield efficiency, reduce resource waste, and make informed decisions.
+Dataset: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
+
